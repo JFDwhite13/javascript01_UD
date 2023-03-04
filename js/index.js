@@ -3,9 +3,9 @@ console.log("hola");
 var a = 4;
 var b = 3;
 
-if(a>b){
+if(a<b){
     console.log(a);
-}else if(b>a){
+}else if(b<a){
     console.log(b);
 }
 
